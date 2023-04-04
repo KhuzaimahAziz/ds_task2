@@ -12,6 +12,6 @@ Firstly I used vectorizer to convert the data in dataframe and question into vec
 
 Then I passed this row as a prompt to the GPT api that can generate the answer to the user question.
 
-## Furtherenhancment
+## Further-enhancment
 
 Further modification can be done by taking keywords from the most similar row, cleaning it and then passing it to chat gpt to enhance results.
